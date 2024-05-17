@@ -60,13 +60,3 @@ A seguir segue a lista de usuários criados que serão necessários para o jogo,
 | User9 | usuario9 | 123
 | User10 | usuario10 | 123
 
-## YouTube
-
-Fiz um pequeno vídeo de explicação sobre o projeto:
-
-```sh
-https://www.youtube.com/watch?v=JyfRQYRpSeo
-```
-
-Muito obrigado pela oportunidade.
-
