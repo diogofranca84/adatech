@@ -13,7 +13,7 @@ import javax.validation.constraints.*;
  * Objeto que representa uma opção de filmes para escolha em cada rodada. 
  */
 @ApiModel(description = "Objeto que representa uma opção de filmes para escolha em cada rodada. ")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2024-05-17T14:21:08.981220400+01:00[Europe/Lisbon]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2024-05-17T14:33:04.672888700+01:00[Europe/Lisbon]")
 public class MovieOption   {
   @JsonProperty("title")
   private String title;
